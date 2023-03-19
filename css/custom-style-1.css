@@ -1,0 +1,18 @@
+body{
+    font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 600;
+}
+
+a.btn-main,
+.btn-main,
+.card-image-1,
+.form-border input[type=text], .form-border input[type=email], .form-border textarea, .form-underline input[type=email], .form-border input[type=password], .form-border input[type=date], .form-border select,
+.post-image
+{
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
